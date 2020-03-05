@@ -1,4 +1,4 @@
-# Linux screen cheatsheet
+# Linux screen cheat sheet
 
 ## Commonly used
 
